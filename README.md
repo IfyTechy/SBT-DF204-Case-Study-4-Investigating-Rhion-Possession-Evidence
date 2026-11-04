@@ -43,10 +43,10 @@ I work in a Kali Linux (rolling) virtual machine. I record every tool version I 
 
 ```
 .
-├── SBTDF204_CaseStudy4_2025208….<pdf|docx>   # submitted report (see exact filename)
-├── README.md                                 # this write-up
-├── .gitignore                                # blocks evidence files (.dd, .log, .zip, images, .pcap, .exe)
-└── evidence/     
+├── evidence/                                  # copy of ~/case4/evidence (hashes, tool output, TSV extracts)
+├── .gitignore                                 # blocks evidence files (.dd, .log, .zip, images, .pcap, .exe)
+├── README.md                                  # this write-up
+└── SBTDF204_CaseStudy4_<registration number>.pdf   # submitted report
 ```
 
 ## 1. Evidence preservation (Q1)
