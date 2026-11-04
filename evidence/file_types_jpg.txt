@@ -1,0 +1,14 @@
+./recup_dir.1/f0106393.jpg: JPEG image data, JFIF standard 1.00, resolution (DPI), density 72x72, segment length 16, comment: "LEAD Technologies Inc. V1.01", baseline, precision 8, 169x228, components 3
+./recup_dir.1/f0104249.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1349x900, components 3
+./recup_dir.1/f0105065.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1686x1122, components 3
+./recup_dir.1/f0335081.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+./recup_dir.1/f0106409.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 170x170, segment length 16, baseline, precision 8, 1024x685, components 3
+./recup_dir.1/f0105873.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+./recup_dir.1/f0104057.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 0x0, segment length 16, comment: "copyright 2000 philg@mit.edu", baseline, precision 8, 528x792, components 3
+./recup_dir.2/f0106393.jpg: JPEG image data, JFIF standard 1.00, resolution (DPI), density 72x72, segment length 16, comment: "LEAD Technologies Inc. V1.01", baseline, precision 8, 169x228, components 3
+./recup_dir.2/f0104249.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1349x900, components 3
+./recup_dir.2/f0105065.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1686x1122, components 3
+./recup_dir.2/f0335081.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+./recup_dir.2/f0106409.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 170x170, segment length 16, baseline, precision 8, 1024x685, components 3
+./recup_dir.2/f0105873.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+./recup_dir.2/f0104057.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 0x0, segment length 16, comment: "copyright 2000 philg@mit.edu", baseline, precision 8, 528x792, components 3

@@ -1,0 +1,6 @@
+r/r 4:	gumbo1.txt
+r/r 6:	gumbo2.txt
+v/v 8101619:	$MBR
+v/v 8101620:	$FAT1
+v/v 8101621:	$FAT2
+V/V 8101622:	$OrphanFiles

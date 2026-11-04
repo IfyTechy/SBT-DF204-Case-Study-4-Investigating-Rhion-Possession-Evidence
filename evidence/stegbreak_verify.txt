@@ -1,0 +1,5 @@
+Loaded 2 files...
+/home/kali/case4/steg/candidates/f0105065.jpg : jphide[v5](REDACTED)
+/home/kali/case4/steg/candidates/f0104249.jpg : jphide[v5](REDACTED)
+Processed 2 files, found 2 embeddings.
+Time: 0 seconds: Cracks: 3,      inf c/s

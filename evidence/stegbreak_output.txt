@@ -1,0 +1,6 @@
+Sun Oct 25 04:04:46 PM UTC 2026
+Loaded 4 files...
+/home/kali/case4/steg/candidates/f0105065.jpg : jphide[v5](REDACTED)
+/home/kali/case4/steg/candidates/f0104249.jpg : jphide[v5](REDACTED)
+Sun Oct 25 04:51:28 PM UTC 2026
+NOTE (examiner): stegbreak ended with a segmentation fault at ~16:51 UTC; search of the wordlist may be incomplete for f0105873.jpg and f0106409.jpg. See screenshot S-steg-5.

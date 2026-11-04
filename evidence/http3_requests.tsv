@@ -1,0 +1,12 @@
+4	2004-04-28T21:15:41.262422000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/
+10	2004-04-28T21:15:48.234997000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/search?hl=en&ie=UTF-8&oe=UTF-8&q=rhino.exe
+30	2004-04-28T21:15:48.774630000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/nav_first.gif
+35	2004-04-28T21:15:48.934559000Z	137.30.123.234	64.233.167.99	1	GET	www.google.com	/images/logo_sm.gif
+38	2004-04-28T21:15:49.105241000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/nav_current.gif
+46	2004-04-28T21:15:49.435096000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/nav_page.gif
+49	2004-04-28T21:15:49.773058000Z	137.30.123.234	64.233.167.99	0	GET	www.google.com	/nav_next.gif
+59	2004-04-28T21:15:55.113910000Z	137.30.123.234	216.239.51.99	2	GET	groups.google.com	/groups?q=rhino.exe&hl=en&lr=&ie=UTF-8&oe=UTF-8&sa=N&tab=wg
+73	2004-04-28T21:15:55.627839000Z	137.30.123.234	216.239.51.99	2	GET	groups.google.com	/intl/en_ALL/images/groups_res.gif
+85	2004-04-28T21:16:02.002505000Z	137.30.123.234	216.239.51.99	2	GET	groups.google.com	/groups?q=rhino.exe&hl=en&lr=&ie=UTF-8&oe=UTF-8&selm=MPG.159359f528ff3d2798aaca%40news.ntlworld.com&rnum=2
+101	2004-04-28T21:16:09.221371000Z	137.30.123.234	64.233.167.99	1	GET	www.google.com	/
+110	2004-04-28T21:16:23.343061000Z	137.30.123.234	137.30.120.37	3	GET	www.cs.uno.edu	/~gnome/rhino.exe

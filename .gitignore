@@ -1,0 +1,17 @@
+*.dd
+*.log
+*.zip
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.pcap
+*.exe
+original/
+working/
+recovered/
+analysis/
+steg/
+ftp/
+tools/
+screenshots/

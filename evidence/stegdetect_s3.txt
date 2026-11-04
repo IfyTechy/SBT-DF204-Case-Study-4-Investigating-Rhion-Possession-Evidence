@@ -1,0 +1,7 @@
+/home/kali/case4/steg/f0104057.jpg : negative
+/home/kali/case4/steg/f0104249.jpg : jphide(***)
+/home/kali/case4/steg/f0105065.jpg : skipped (false positive likely)
+/home/kali/case4/steg/f0105873.jpg : jphide(*)
+/home/kali/case4/steg/f0106393.jpg : negative
+/home/kali/case4/steg/f0106409.jpg : jphide(*)
+/home/kali/case4/steg/f0335081.jpg : jphide(*)

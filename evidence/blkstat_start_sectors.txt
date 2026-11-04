@@ -1,0 +1,9 @@
+sector 104057: Sector: 104057 Not Allocated Cluster: 12943 
+sector 104249: Sector: 104249 Not Allocated Cluster: 12967 
+sector 105065: Sector: 105065 Not Allocated Cluster: 13069 
+sector 105873: Sector: 105873 Not Allocated Cluster: 13170 
+sector 106393: Sector: 106393 Not Allocated Cluster: 13235 
+sector 106409: Sector: 106409 Not Allocated Cluster: 13237 
+sector 106865: Sector: 106865 Not Allocated Cluster: 13294 
+sector 106889: Sector: 106889 Not Allocated Cluster: 13297 
+sector 335081: Sector: 335081 Not Allocated Cluster: 41821 

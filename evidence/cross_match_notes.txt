@@ -1,0 +1,11 @@
+FINDING: Hash match across disk recovery and FTP archive
+SHA-256: b4f6bbb8d846d6505c9b5b67f115656fdf980a484aa441078a838a3ffc2ac705
+Sources:
+  1. recup_dir.1/f0106409.jpg and recup_dir.2/f0106409.jpg
+     - Carved by PhotoRec from unallocated space on RHINOUSB.dd
+  2. contraband_extracted/rhino2.jpg
+     - Extracted from contraband.zip (password "REDACTED"), transferred via FTP
+       session 3 (tcp.stream 305/307) at 2004-04-26 22:26:46 UTC
+Interpretation: identical file content confirmed across two independent
+evidence sources (disk image and network capture). Does not establish
+which was the original source file.

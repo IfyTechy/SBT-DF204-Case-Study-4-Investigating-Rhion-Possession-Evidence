@@ -1,0 +1,181 @@
+======== /home/kali/case4/steg/f0104057.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0104057.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 96 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          Comment                         : copyright 2000 philg@mit.edu
+[File]          ImageWidth                      : 528
+[File]          ImageHeight                     : 792
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 0
+[JFIF]          YResolution                     : 0
+[Composite]     ImageSize                       : 528x792
+[Composite]     Megapixels                      : 0.418
+======== /home/kali/case4/steg/f0104249.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0104249.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 416 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1349
+[File]          ImageHeight                     : 900
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Composite]     ImageSize                       : 1349x900
+[Composite]     Megapixels                      : 1.2
+======== /home/kali/case4/steg/f0105065.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0105065.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 411 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1686
+[File]          ImageHeight                     : 1122
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 1
+[JFIF]          YResolution                     : 1
+[Composite]     ImageSize                       : 1686x1122
+[Composite]     Megapixels                      : 1.9
+======== /home/kali/case4/steg/f0105873.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0105873.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 265 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 768
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Ducky]         Quality                         : 79%
+[Adobe]         DCTEncodeVersion                : 100
+[Adobe]         APP14Flags0                     : [14], Encoded with Blend=1 downsampling
+[Adobe]         APP14Flags1                     : (none)
+[Adobe]         ColorTransform                  : YCbCr
+[Composite]     ImageSize                       : 1024x768
+[Composite]     Megapixels                      : 0.786
+======== /home/kali/case4/steg/f0106393.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0106393.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 6.8 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          Comment                         : LEAD Technologies Inc. V1.01
+[File]          ImageWidth                      : 169
+[File]          ImageHeight                     : 228
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.00
+[JFIF]          ResolutionUnit                  : inches
+[JFIF]          XResolution                     : 72
+[JFIF]          YResolution                     : 72
+[Composite]     ImageSize                       : 169x228
+[Composite]     Megapixels                      : 0.039
+======== /home/kali/case4/steg/f0106409.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0106409.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 231 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:52-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 685
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:2:0 (2 2)
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : inches
+[JFIF]          XResolution                     : 170
+[JFIF]          YResolution                     : 170
+[Composite]     ImageSize                       : 1024x685
+[Composite]     Megapixels                      : 0.701
+======== /home/kali/case4/steg/f0335081.jpg
+[ExifTool]      ExifToolVersion                 : 13.50
+[System]        FileName                        : f0335081.jpg
+[System]        Directory                       : /home/kali/case4/steg
+[System]        FileSize                        : 265 kB
+[System]        FileModifyDate                  : 2026:10:25 08:46:53-04:00
+[System]        FileAccessDate                  : 2026:10:25 11:36:44-04:00
+[System]        FileInodeChangeDate             : 2026:10:25 11:36:34-04:00
+[System]        FilePermissions                 : -rw-rw-r--
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ImageWidth                      : 1024
+[File]          ImageHeight                     : 768
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[JFIF]          JFIFVersion                     : 1.02
+[JFIF]          ResolutionUnit                  : None
+[JFIF]          XResolution                     : 100
+[JFIF]          YResolution                     : 100
+[Ducky]         Quality                         : 79%
+[Adobe]         DCTEncodeVersion                : 100
+[Adobe]         APP14Flags0                     : [14], Encoded with Blend=1 downsampling
+[Adobe]         APP14Flags1                     : (none)
+[Adobe]         ColorTransform                  : YCbCr
+[Composite]     ImageSize                       : 1024x768
+[Composite]     Megapixels                      : 0.786
+    7 image files read

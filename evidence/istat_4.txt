@@ -1,0 +1,13 @@
+Directory Entry: 4
+Allocated
+File Attributes: File, Archive
+Size: 2815
+Name: GUMBO1.TXT
+
+Directory Entry Times:
+Written:	2004-04-30 18:11:20 (EDT)
+Accessed:	2004-04-30 00:00:00 (EDT)
+Created:	2004-04-30 18:11:20 (EDT)
+
+Sectors:
+529 530 531 532 533 534 0 0 
