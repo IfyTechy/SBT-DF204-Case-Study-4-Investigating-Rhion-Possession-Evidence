@@ -51,7 +51,6 @@ I work in a Kali Linux (rolling) virtual machine. I record every tool version I 
 ├── steg/         # steganography working copies and extractions
 ├── ftp/          # files rebuilt from the FTP capture
 ├── tools/        # stegdetect, jphs tools
-└── screenshots/
 ```
 
 ## 1. Evidence preservation (Q1)
