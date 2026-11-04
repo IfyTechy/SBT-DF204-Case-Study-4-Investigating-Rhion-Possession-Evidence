@@ -42,15 +42,11 @@ I work in a Kali Linux (rolling) virtual machine. I record every tool version I 
 ## Folder layout
 
 ```
-~/case4/
-├── original/     # downloaded zip (read-only)
-├── working/      # extracted evidence copies (read-only)
-├── evidence/     # command outputs, hashes and logs (published, redacted)
-├── recovered/    # PhotoRec output (recup_dir.1, recup_dir.2)
-├── analysis/     # copies of recovered images, contact sheet
-├── steg/         # steganography working copies and extractions
-├── ftp/          # files rebuilt from the FTP capture
-├── tools/        # stegdetect, jphs tools
+.
+├── SBTDF204_CaseStudy4_2025208….<pdf|docx>   # submitted report (see exact filename)
+├── README.md                                 # this write-up
+├── .gitignore                                # blocks evidence files (.dd, .log, .zip, images, .pcap, .exe)
+└── evidence/     
 ```
 
 ## 1. Evidence preservation (Q1)
